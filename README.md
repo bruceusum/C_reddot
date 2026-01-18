@@ -1,4 +1,4 @@
-# C_reddot
+<img src="gameplay.gif" width="600">  
 
 # 簡化版撿紅點
 
